@@ -1,0 +1,10 @@
+main{
+  height: auto;
+  background-color: rgb(248, 246, 244);
+}
+h3{
+  padding: 1rem 0 ;
+}
+.rating{
+  margin:.1rem;
+}
